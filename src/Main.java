@@ -14,6 +14,9 @@ public class Main {
         System.out.println(idmanlar);
         System.out.println("Bir idman oluşturun...");
 
+
+        System.out.println("Yeni satır");
+
         System.out.println("Burpee Sayısı : ");
         int burpee = scanner.nextInt();
         System.out.println("Pushup Sayısı : ");
